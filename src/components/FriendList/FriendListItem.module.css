@@ -1,0 +1,15 @@
+.friendItem {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    border: 2px solid #8c8c8c;
+    border-radius: 10px;
+    width: 100px;
+    padding: 16px;
+}
+
+.friendAvatar {
+    display: block;
+    width: 80px;
+}

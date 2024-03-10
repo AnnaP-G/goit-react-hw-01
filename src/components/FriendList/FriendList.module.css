@@ -1,0 +1,10 @@
+.friendContainer {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+}
+
+.friendList {
+    display: flex;
+    gap: 10px;
+}
